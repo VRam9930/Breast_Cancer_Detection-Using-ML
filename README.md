@@ -89,8 +89,8 @@ Open `Breast_Cancer_Classification_using_Machine_Learning.ipynb` and execute the
 
 ## 👨‍💻 Author  
 **Rama Subrahmanyam Vudatha**  
-📧 *your-email@example.com*  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/rama-subrahmanyam-vudatha-83723a259)) | [GitHub](https://github.com/VRam9930)  
+📧 *vudatharamasubrahmanyam@gmail.com*  
+🔗 [LinkedIn](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/rama-subrahmanyam-vudatha-83723a259 ) | [GitHub](https://github.com/VRam9930)  
 
 ---
 
